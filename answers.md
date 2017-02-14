@@ -14,3 +14,5 @@
 7. $('h1').css("font-family", "monospace");
 
 8. $('a.action-icon-bg').css("background-color", "red");
+
+9. $('#message').attr('placeholder', 'Identify Yourself');
