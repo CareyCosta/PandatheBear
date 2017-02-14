@@ -6,7 +6,7 @@
 
 4. $('#time-travel').parent().remove();
 
-*/ not sure if this one is 100% correct, will return to it /*
+*/ not sure if this one is 100% correct, will return to revise it /*
 5. $('body').css('color', 'red');
 
 6. $('.highlight').css('color', 'red');
@@ -15,4 +15,6 @@
 
 8. $('a.action-icon-bg').css("background-color", "red");
 
-9. $('#message').attr('placeholder', 'Identify Yourself');
+9. $('#name').attr('placeholder', 'Identify Yourself) ');
+
+10. $('#message').attr('placeholder', 'State Yo Business ;) ');
