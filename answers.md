@@ -13,4 +13,4 @@
 
 7. $('h1').css("font-family", "monospace");
 
-8. 
+8. $('a.action-icon-bg').css("background-color", "red");
