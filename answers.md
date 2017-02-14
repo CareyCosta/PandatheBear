@@ -24,3 +24,7 @@
 12. $('#email').attr('value', "koalathebear@gmail.com");
 
 13. $('#submit').attr('value', "en garde!!!");
+
+* ADDING ELEMENTS TO THE DOM *
+
+1. $('#right-image img').clone().appendTo("footer");
