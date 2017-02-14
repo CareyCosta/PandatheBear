@@ -5,3 +5,8 @@
 3. $('h1.highlight').text('Carey Costa');
 
 4. $('#time-travel').parent().remove();
+
+*/ not sure if this one is 100% correct, will return to it /*
+5. $('body').css('color', 'red');
+
+6. $('.highlight').css('color', 'red');
