@@ -3,3 +3,5 @@
 2. $('#left-image img').attr({ title: "Man Walking on Ice", src: 'http://wisflora.herbarium.wisc.edu/spec_images/bigphoto/TAROFF_RWF.jpg'});
 
 3. $('h1.highlight').text('Carey Costa');
+
+4. $('#time-travel').parent().remove();
